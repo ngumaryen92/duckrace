@@ -45,7 +45,7 @@ let myduck2 = {
 
 //images//
 function preload() {
-  poolImg = loadImage("pool.png"); 
+  poolImg = loadImage("Pool.png"); 
   duckImg = loadImage("Rubber_Duck2.png"); 
   duckImg2 = loadImage("Rubber_Duck.png");
   winImg = loadImage("YOU_WIN!.png");
